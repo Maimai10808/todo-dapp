@@ -6,6 +6,12 @@ This project is a beginner-friendly demo for learning how to build a decentraliz
 
 ---
 
+<p align="center">
+  <img src="./screenshots/1.png" alt="Home" width="30%" />
+  <img src="./screenshots/2.png" alt="Wallet Connected" width="30%" />
+  <img src="./screenshots/3.png" alt="Task Overview" width="30%" />
+</p>
+
 ## Features
 
 - Connect wallet with MetaMask
